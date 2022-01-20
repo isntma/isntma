@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hello! I'm isntma 👋</h3>
+<h4 align="center">a systems and cybersecurity enthusiast</h4>
+<hr>
 
-<!--
-**isntma/isntma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### about me
 
-Here are some ideas to get you started:
+* Using Linux since 2017 🐧
+* Cybersecurity knowledge 💻
+* Critical thinking, decision-making and problem solving skills 🧠
+* Some Python coding 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### contact
+
+* Contact me through [email](mailto:isntma@tuta.io) 📧
+* I upload some things in [https://isntma.github.io/](https://isntma.github.io/) 🕸️
