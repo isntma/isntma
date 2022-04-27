@@ -7,9 +7,8 @@
 * Using Linux since 2017 🐧
 * Cybersecurity knowledge 💻
 * Critical thinking, decision-making and problem solving skills 🧠
-* Some Python coding 🐍
 
 #### contact
 
-* Contact me through [email](mailto:isntma@tuta.io) 📧
+* Contact me through [email](mailto:isnt.ma@tuta.io) 📧
 * I upload some things in [https://isntma.github.io/](https://isntma.github.io/) 🕸️
